@@ -23,3 +23,4 @@ Use at your own risk. Roblox has strict anti-botting measures. This script inclu
 - **Auto-Token Refresh:** Automatically fixes 403 Forbidden errors when your security token expires.
 - **Rate Limit Protection:** Pauses automatically if Roblox sends a 429 (Too Many Requests) error.
 - **Dashboard:** Shows live progress, estimated time remaining, and total count.
+
