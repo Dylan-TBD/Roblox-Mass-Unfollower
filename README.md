@@ -42,9 +42,15 @@ Download the latest version from the **[Releases](https://github.com/dy1an4895/R
 ---
 
 <details>
-<summary><strong>📸 Proof of concept (Screenshot)</strong></summary>
+<summary><strong>🔍 Process (Screenshot)</strong></summary>
 <br>
 <img src="proof.png" alt="Console Proof" width="100%">
+</details>
+
+<details>
+<summary><strong>🏁 Completion (Screenshot)</strong></summary>
+<br>
+<img src="proof of completion.png" alt="Console Proof" width="100%">
 </details>
 
 ---
@@ -55,5 +61,5 @@ Download the latest version from the **[Releases](https://github.com/dy1an4895/R
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/dy1an4895">dy1an4895</a></sub>
+  <sub>Built with ❤️ by <a href="https://github.com/Dylan-TBD">Dylan-TBD</a></sub>
 </div>
