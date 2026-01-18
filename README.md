@@ -1,5 +1,7 @@
 # Roblox Mass Unfolower Console Script
-
+![License](https://img.shields.io/github/license/dy1an4895/Roblox-Mass-Unfollower-Console-Script)
+![Language](https://img.shields.io/badge/language-JavaScript-yellow)
+![Status](https://img.shields.io/badge/status-working-brightgreen)
 A JavaScript console script to automatically unfollow everyone on Roblox. 
 It handles CSRF token refreshing, rate limiting, and batch processing automatically.
 
